@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Local datasets / large files
+data/
+outputs/models/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz

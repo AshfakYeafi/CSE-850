@@ -1,0 +1,2 @@
+STL-10 adversarial robustness (ResNet-18): train/eval code under src/, entry points main.py and run_ablation.py.
+Report sources and PDF in Latex_report/. Saved metrics and figures under outputs/results and outputs/plots.
